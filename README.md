@@ -4,3 +4,18 @@
 - log  hyperparamters and metrices 
 - compare the results in MLflow UI
 - register best model
+
+
+# Tech Stack 
+ - sklearn
+ - pandas
+ - mlflow
+ - python 
+
+
+ # Commndas  
+  - conda create --name myenv python
+  - conda activate myenv
+  - pip install --upgrade pip (optional)
+  - pip install -r requirements.txt
+  - conda install -n myenv ipykernel --update-deps --force-reinstall
