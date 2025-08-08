@@ -13,7 +13,7 @@
  - python 
 
 
- # Commndas  
+ # Commands  
   - conda create --name myenv python
   - conda activate myenv
   - pip install --upgrade pip (optional)
