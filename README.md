@@ -7,10 +7,10 @@
 
 
 # Tech Stack 
- - sklearn
- - pandas
- - mlflow
- - python 
+ - scikit-learn==1.7.1
+ - pandas:2.3.1
+ - mlflow:3.2.0
+ - python:3.13.5
 
 
  # Commands  
